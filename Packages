@@ -1,0 +1,13 @@
+Package: com.moneymoney122.flux
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Moneymoney122 <jameschandler750@gmail.com>
+Filename: ./debs/com.moneymoney122.flux_1.0_iphoneos-arm.deb
+Size: 168736 
+MD5sum: 50e94f44a8c8e4194c915c8c2cf13a8b
+SHA1: 91540a16903f1c8ec48d177532abc8e68569c41c
+SHA256: c5521b4ebbb5bffdff7af9fd95fc4c0610142488bf549170b52705f45d17016f
+Section: Applications
+Description: Flux is a good app to adjust brightness on your iOS device.
+Author: Moneymoney122 <jameschandler750@gmail.com>
+Name: Flux
