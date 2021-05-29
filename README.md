@@ -1,1 +1,0 @@
-The Cydia repo that hosts Moneymoney122’s packages and tweaks.
