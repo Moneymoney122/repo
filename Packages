@@ -11,3 +11,17 @@ Section: Applications
 Description: Want to change the color of your ipad or iphone homescreen? By a button in this app!
 Author: Moneymoney122 <jameschandler750@gmail.com>
 Name: iDarkMode
+
+Package: com.moneymoney122.snaptube
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Moneymoney122 <jameschandler750@gmail.com>
+Filename: ./debs/com.moneymoney122.snaptube_1.0_iphoneos-arm.deb
+Size: 9447104 
+MD5sum: bae33f35b3371882522f7378f0d42cfe
+SHA1: 351735d92219d39f3156fbd9341e7a07e8e6518e
+SHA256:  55802bb3ca4498ad92e7e449253681328d6888b40a680edf84feb349afca5bc6
+Section: Applications
+Description: Snap at the vidoes or the music you love with this awesome app. A great video downloader app for youtube videos or music videos you love to listen from your favorite artist.
+Author: Moneymoney122 <jameschandler750@gmail.com>
+Name: Snaptube
