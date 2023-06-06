@@ -3,6 +3,6 @@ Label: Moneymoney122’s Repo
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
-Architectures: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Components: main
 Description: The Cydia repo that hosts Moneymoney122’s packages and tweaks.
